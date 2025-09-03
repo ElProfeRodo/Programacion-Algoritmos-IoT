@@ -8,4 +8,5 @@ username = input("Username: ")
 if len(username) >= 10:
     print("Usuario valido")
 else:
-    print("Debe tener 10 caracteres")
+
+    print("Debe tener por lo menos 10 caracteres")
